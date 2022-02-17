@@ -1,0 +1,13 @@
+/* @font-face {
+	font-family: '...';
+	src: url('/fonts/...');
+	font-weight: normal;
+	font-style: normal;
+} */
+
+@font-face {
+	font-family: 'Syne Tactile', cursive;
+	src: url('https://fonts.googleapis.com/css2?family=Roboto&family=Syne+Tactile&family=Zen+Kurenaido&display=swap');
+	font-weight: normal;
+	font-style: normal;
+}
