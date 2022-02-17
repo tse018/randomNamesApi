@@ -1,2 +1,2 @@
-# vue_starter_template
-This is my pre-build when starting a new vue project
+# Random Names Generator using Rest-API
+This is simple application using random user rest-api to show different profiles when clicked on button
