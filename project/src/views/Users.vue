@@ -1,17 +1,18 @@
 <template>
-   <Users />
+   <div class="background">
+      <Users />
+   </div>
 </template>
 
 <script>
 import Users from '../components/Users.vue';
+
 export default {
    components: {
       Users
    }
-
 }
 </script>
 
-<style>
-
+<style scoped>
 </style>
