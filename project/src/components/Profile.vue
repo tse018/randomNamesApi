@@ -45,7 +45,7 @@ export default {
    methods: {
       /* funksjon som fetcher data */
       async fetchApi() {
-         const url = 'https://randomuser.me/apis';
+         const url = 'https://randomuser.me/api';
          const response = await fetch(url);
          try {
             await this.handleResponse(response);
